@@ -1,0 +1,104 @@
+
+body {background-color: #F5F5F5;}
+header {background-image: url(../images/hero-bg.jpg); background-size: cover; background-position: center; background-repeat: no-repeat; background-color: rgba(0, 0%, 0%, 0);}
+.header-layer {background-color: rgb(0, 0, 0, 0.5);}
+.header-title h1 {font-size: 70px;}
+.header-title h4 {font-size: 30px;}
+
+.row {padding: 50px 0px ;}
+.sec1 {background-color: #F5F5F5;}
+.card {width: 90%;}
+
+.list {line-height: 45px;}
+.right-part p { font-size:20px; line-height: 30px;}
+.navbar {transition: 0.7s all;}
+.navbar a {color: white; transition: 0.7s all;}
+.nav-item {padding-right: 30px; transition: 0.7s all;}
+.nav-item:hover a {color: white; border-bottom: 2px solid white;}
+.nav-item .dropdown-menu a {color: black;}
+
+
+                                       /* section2 */
+
+.data-data span {font-weight: bold; padding-right: 5px;}
+.data-group li {line-height: 25px;}
+.data-group p {color: #4E4E4E;} 
+.languages p {margin: 0px;}
+.progress {margin: 8px 0px; border-radius: 0px; height: 12px;}
+.under-line {width: 100px; height: 3px; background-color: #0078FF;}
+.data-content p {padding: 5px 0px; line-height: 30px; font-size: 18px; color: #656765;}                                       
+                                       
+
+                                    /* section3 */
+
+.line {width: 40px; height: 6px; background-color: #0078FF;}
+.service-icon {width: 110px; height: 110px; margin: 30px 10px 10px 10px; background-color: white; border: 8px solid #0078FF; border-radius: 50%;
+display: flex; justify-content: center; align-items: center; transition:0.5s all;} 
+.service-icon i {font-size: 40px;}
+.card {transition:0.7s all ;}
+.card:hover .service-icon {background-color: #0078FF; border: 8px solid rgba(0, 119, 255, 0.048) ; color: white;}
+
+
+                                   /* section4  counter */
+
+.sec4 { height: auto; background-image: url(../images/counters-bg.jpg); background-size: cover; background-repeat: no-repeat; position: relative;}       
+.layer {background-color: #0078FF;  height: auto; top: 0px; bottom: 0px; right: 0px; left: 0px;}
+.counter {width: 80px; height: 80px; border: 10px solid #CDE1F8; display: flex; justify-content: center; align-items: center; font-size: 25px;}
+.numbers-info {color: white;}
+/* .sec4 .row {transform: translatey(40%);} */
+
+
+
+                                     /* section5 */
+
+
+.plus-icon {width: 40px; height: 40px; border: 2.5px solid #077CFF; border-radius: 50%; color: #077CFF; cursor: pointer; transition: 0.5s all;}
+.plus-icon:hover {background-color: #077CFF; color: white;}
+.portfolio-cards img {transition: 0.7s all;}
+.portfolio-cards:hover img {transform: scale(1.2);}
+
+                        
+
+                                   /* section6 */
+.sec6 {background-image: url(../images/overlay-bg.jpg); background-size: cover; background-repeat: no-repeat; position: relative;}
+.carousel {background-color:rgba(0, 119, 255, 0.7); }
+.carousel-indicators [data-bs-target] {width: 15px; height: 15px; border-radius: 50%;}
+
+
+
+                                         /* section7 */
+
+.card-title a {text-decoration: none; color: black;}
+.titlee img {width: 30px; border-radius: 50px; margin:0px 5px;}
+.titlee a {text-decoration: none; color: black; transition: 0.5s all;}  
+.titlee a:hover {color: #077CFF;}    
+.cardinner-button {width: 80px; background-color: #077CFF; padding: 5px 10px; border-radius: 5px;}          
+
+
+
+                                             /* section8 */
+
+.sec8{overflow: hidden; padding: 50px;}
+.line-left {width: 110px; height: 3px; background-color: #0077ff;}     
+.new-textarea {border: 1px solid rgba(128, 128, 128, 0.295); box-shadow: #0078FF;} 
+#contact {background-color:#077bffe3 ;} 
+.contact-inner {padding: 40px; margin:50px 20px ; background-color: white;}
+.line-right {width: 100px; height: 3px; background-color: #0078FF;}
+.list-group li {border: none;}     
+.list-group li {display: flex; padding: 0px;}  
+.list-group i {padding:5px 5px 0px 0px ; color: #077CFF;}
+.contact-icon {transition: 1s all 0.5s ; overflow: hidden; width: 40px; height: 40px; border: 3px solid #077CFF; border-radius: 50%; display: flex; justify-content: center; align-items: center;}
+.contact-icon i {padding: 10px; font-size: 20px;}
+.contact-icon i {color: #1E1E1E;}
+.icons-group .list-group-item {margin-right: 20px;}
+.icons-group .contact-icon:hover i {background-color: #0078FF; color: white; border: #cde1f880;}
+.contact-button {text-align: center;}
+
+
+                                              /* section9 footer */
+
+footer {background-color: #0078FF; box-shadow: 10px 10px 3px ;}  
+.footer-content {color: white;}                                           
+
+
+
